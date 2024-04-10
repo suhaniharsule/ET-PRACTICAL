@@ -1,1 +1,1 @@
-ET-Lab Praticala
+ET-Lab Praticals
